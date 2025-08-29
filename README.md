@@ -14,7 +14,7 @@ The solution is designed with the **Medallion Architecture** (Bronze → Silver 
    - Raw CSV files hosted on **GitHub** and a subset stored in a **SQL Database**.  
    - Used **Azure Data Factory (ADF)** pipelines to ingest data from:
      - GitHub (via HTTP connector).  
-     - SQL Database (via JDBC connection).  
+     - SQL Database (via python-api connection).  
    - Landed all raw data into **Azure Data Lake Storage Gen2 (ADLS Gen2)** under the **Bronze layer**.
 
 2. **Data Transformation & Enrichment**  
