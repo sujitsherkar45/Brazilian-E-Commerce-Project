@@ -112,7 +112,7 @@ adls_gen2/
 
 ## 📧 Contact  
 
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/mohammedkayser](https://www.linkedin.com/in/sujitsherkar2003/)
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/sujitsherkar2003/](https://www.linkedin.com/in/sujitsherkar2003/)
 - 📩 **Email**: [sujitsherkar45@gmail.com](mailto:sujitsherkar45@gmail.com)  
 
 
